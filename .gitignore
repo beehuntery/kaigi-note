@@ -16,6 +16,9 @@ terraform.rc
 # Local .terraform directories
 .terraform/
 
+# Note: .terraform.oclk.hcl should be committed to version control
+# as it ensures consistent provider versions across environments
+
 # IDE and editor files
 .idea/
 .vscode/
